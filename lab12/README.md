@@ -2,6 +2,6 @@
 
 # App
 ## This app takes a file with a lot of data about Fly or Human genome and prints out:
-#### - 3 genes with the longest genome sequence
-#### - 3 genes with the biggest amount of transcripts
-#### - 3 transcripts with the biggest amount of exons
+* 3 genes with the longest genome sequence
+* 3 genes with the biggest amount of transcripts
+* 3 transcripts with the biggest amount of exons
